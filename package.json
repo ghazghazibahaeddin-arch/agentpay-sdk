@@ -1,0 +1,13 @@
+{
+  "name": "agentpay-sdk",
+  "version": "1.0.0",
+  "description": "SDK for AgentPay — AI Agent Payments",
+  "main": "index.js",
+  "keywords": ["ai", "agents", "payments", "agentpay"],
+  "author": "AgentPay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghazghazibahaeddin-arch/agentpay-sdk"
+  }
+}
